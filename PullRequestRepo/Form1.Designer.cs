@@ -1,4 +1,4 @@
-﻿namespace PullRequestRepo
+namespace PullRequestRepo
 {
     partial class Form1
     {
@@ -45,7 +45,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(220, 450);
+            this.ClientSize = new System.Drawing.Size(240, 850);
             this.Controls.Add(this.button1);
             this.Name = "Form1";
             this.Text = "Form1";
